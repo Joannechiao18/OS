@@ -1,6 +1,6 @@
 # OS
 These are the four OS projects from the `"Operating System"` class. 
-1. The first project: `"Proc. Generation & Communication"`. 
+1. The first project: `"Proc. Generation & Communication"`. <br>
 The detailed discriptions for this project are provided with the following link.
 https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f70213c3-ddf3-3d7d-8e62-c64ca00cc4c0
 
