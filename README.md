@@ -1,4 +1,9 @@
 # OS
+
+![](https://img.shields.io/badge/C-10.2-yellowgreen)
+![](https://img.shields.io/badge/C++-10.2-orange)
+
+
 These are the four OS projects from the `"Operating System"` class. 
 1. The first project:  ***Proccess Generation & Communication***. <br><br>
 The detailed discriptions for this project are provided with the following link. <br>
