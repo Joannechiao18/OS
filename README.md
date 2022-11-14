@@ -1,7 +1,7 @@
 # OS
 
-![](https://img.shields.io/badge/C-10.2-yellowgreen)
-![](https://img.shields.io/badge/C++-10.2-orange)
+![](https://img.shields.io/badge/C-yellowgreen)
+![](https://img.shields.io/badge/C++-17-orange)
 
 
 These are the four OS projects from the `"Operating System"` class. 
