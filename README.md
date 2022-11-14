@@ -2,7 +2,7 @@
 These are the four OS projects from the `"Operating System"` class. 
 1. The first project:  ***Proc. Generation & Communication***. <br><br>
 The detailed discriptions for this project are provided with the following link. <br>
-https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f70213c3-ddf3-3d7d-8e62-c64ca00cc4c0
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f70213c3-ddf3-3d7d-8e62-c64ca00cc4c0]
 
 2. The second project: ***Multithreading***. <br><br>
 The detailed discriptions for this project are provided with the following link. <br>
