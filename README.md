@@ -12,7 +12,7 @@ These are the four OS projects from the `"Operating System"` class.
 The detailed discriptions for this project are provided with the following link. <br>
 https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:67e245a1-c0b0-3980-9ad0-08c334bd488c
 
-### The second project: *Multithreading. 
+### The second project: Multithreading. 
 
 The detailed discriptions for this project are provided with the following link. <br>
 https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:934b1a66-450f-3f55-bf2b-8e9395c249f7
