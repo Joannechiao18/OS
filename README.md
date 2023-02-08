@@ -5,7 +5,7 @@
 
 
 ## Introduction
-These are the four OS projects from the `"Operating System"` class. 
+These are the four OS projects from the `"CS 305 Operating System"` class. 
 
 ### The first project:  Proccess Generation & Communication. 
 
@@ -25,3 +25,6 @@ https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:dd4aa818-e566-380b-96b
 ### The fourth project: Deadlock Avoidance
 The detailed discriptions for this project are provided with the following link. <br>
 https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a8eba0d4-01c8-3eae-838f-f19c193be865
+
+## Note
+The complete codres for the four projects are currently removed as requested by the professor due to future class use. Please contact me to view the complete codes! Thanks.
